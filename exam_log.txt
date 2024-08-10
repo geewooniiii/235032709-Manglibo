@@ -1,0 +1,82 @@
+    1  pkg install cmatrix
+    2  cmatrix
+    3  pkg install proot distro
+    4  pkg install proot-distro
+    5  cmatrix
+    6  ssh
+    7  ssh-keygen
+    8  SSHD
+    9  ifconfig
+   10  exit
+   11  logout
+   12  proot-distro login ubuntu
+   13  apt update
+   14  apt install git
+   15  git clone https://github.com/geewooniiii/235032709-Manglibo
+   16  ls
+   17  whoami
+   18  cd/
+   19  cd 
+   20  cd235032709-Manglibo/
+   21  cd 235032709-Manglibo/
+   22  cd/.
+   23  ls
+   24  ./README.md -i
+   25  help
+   26  exit
+   27  proot-disto login ubuntu
+   28  ubuntu -l
+   29  ./235032709-Manglibo -l
+   30  ./235032709-Manglibo -1
+   31  exit
+   32  q
+   33  pkg install
+   34  help
+   35  exit n
+   36  ls
+   37  pkg search
+   38  help
+   39  sudo apt install python3
+   40  no
+   41  clear
+   42  proot-distro login ubuntu
+   43  help
+   44  login -n
+   45  pkg update
+   46  pkg upgrade
+   47  pkg install proot-distro
+   48  proot-distro intall Ubunto
+   49  proot-distro install Ubunto
+   50  /proot-distro install Ubuntu
+   51  proot-distro install ubuntu
+   52  proot-distro login ubuntu
+   53  pkg install ssh
+   54  clear
+   55  pkg upgrade
+   56  pkg install openssh
+   57  passwd
+   58  ssh-keygen
+   59  whoami
+   60  ifconfig
+   61  help
+   62  sshd
+   63  SSHD
+   64  ssh-keygen
+   65  clear
+   66  proot-distro login ubuntu
+   67  pkg install wget
+   68  termux-setup-storage
+   69  ls
+   70  clear
+   71  proot-distro login ubuntu
+   72  sudo apt install default -jdk
+   73  yes
+   74  exit
+   75  logout
+   76  exit
+   77  proot-distro login ubuntu
+   78  logout
+   79  ls
+   80  cd 235032709-Manglibo
+   81  git checkout -b finalexam
+   82  history > exam_log.txt
