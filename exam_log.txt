@@ -78,5 +78,23 @@
    78  logout
    79  ls
    80  cd 235032709-Manglibo
-   81  git checkout -b finalexam
-   82  history > exam_log.txt
+   81  git status
+   82  cd
+   83  cd 235032709-Manglibo
+   84  cd ~/projects/my_repo
+   85  cd linux_practice
+   86  ls
+   87  cat notes.txt
+   88  cd notes.txt
+   89  echo "Hello, Linux!" > notes.txt
+   90  cat notes.txt
+   91  cd..
+   92  cd ..
+   93  git checkout finalexam
+   94  git log -p --since='2024-08-08' --until='2024-08-10' --date=short -- exam_log.txt --reverse -n 1
+   95  git checkout finalexam
+   96  git log -p --since='2024-08-08' --until='2024-08-10' --date=short -- exam_log.txt --reverse -n 1
+   97  Already on 'finalexam'
+   98  git log --oneline
+   99  git log -p
+  100  history > exam_log.txt
